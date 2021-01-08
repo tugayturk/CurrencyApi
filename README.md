@@ -1,2 +1,2 @@
-# CurrentApi
-Current Api
+# CurrencyApi
+Currency Api
